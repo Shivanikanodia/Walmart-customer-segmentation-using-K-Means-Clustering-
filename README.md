@@ -54,7 +54,7 @@ This project performs customer segmentation and purchasing behavior analysis usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//ecommerce-customer-segmentation.git
+   git clone https://github.com/Shivanikanodia/Walmart_Customer_Behaviour_Analysis
    cd ecommerce-customer-segmentation
 
 2. Create a virtual environment:
